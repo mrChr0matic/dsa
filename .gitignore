@@ -1,1 +1,10 @@
 /.vscode
+.gitignore
+*.exe
+*.out
+*.obj
+*.o
+*.a
+*.so
+*.dll
+*.dylib
